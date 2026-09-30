@@ -1,4 +1,4 @@
-# Expense Tracker API — PHITRON AI-ML Module 24 Mid Term
+# Expense Tracker API
 
 A Personal Expense Tracker API built according to the Module 24 requirements.
 
