@@ -45,7 +45,6 @@ expense_tracker_api/
 │   └── test_transactions.py
 ├── .env.example
 ├── .gitignore
-├── render.yaml
 ├── requirements.txt
 └── README.md
 ```
